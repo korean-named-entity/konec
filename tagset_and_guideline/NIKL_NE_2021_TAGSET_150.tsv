@@ -1,0 +1,151 @@
+label	level1	level2	level3	description	example
+PS_NAME	PS	PS_NAME		실존/비실존 인물의 이름, 별칭, 인터넷 사용자명	흥선대원군, 아이유, 단군, 제우스, 돌부처, 쯔양, sojujsh
+PS_CHARACTER	PS	PS_CHARACTER		가상 캐릭터의 이름, 작품 속 등장인물의 이름	뽀로로, 루피, 심슨, 엘사, 어피치, 라이언, 무지, 해리 포터, 유시진, 제임스 본드
+PS_PET	PS	PS_PET		반려동물의 이름	뽀삐, 쿠키, 탄이, 절미, 달리, 김또또, 이뭉치
+FD_SCIENCE	FD	FD_SCIENCE		과학 학문 분야 및 학파(자연과학과 공학만으로 한정)	물리학, 생명과학, 수학, 기계공학, 수의학, 자동차공학, 전기공학
+FD_SOCIAL_SCIENCE	FD	FD_SOCIAL_SCIENCE		사회과학 학문 분야 및 학파(정치/경제/사회와 관련된 분야	인류학, 사회학, 경제학, 정치학, 심리학/고전학파, 신고전학파
+FD_MEDICINE	FD	FD_MEDICINE		의학 관련 학문 분야 및 분과	의학, 병리학, 보건의료학, 신경과학/비뇨기과, 신경과, 내과
+FD_ART	FD	FD_ART		예술 관련 학문 분야 및 학파	문예학, 음악사학, 미술사학, 공연예술학/인상파, 점묘파, 신경향파
+FD_HUMANITIES	FD	FD_HUMANITIES		인문학 관련 학문 분야 및 학파	언어학, 철학, 국어국문학, 독어독문학/구조주의 언어학파, 아날학파
+FD_OTHERS	FD	FD_OTHERS		기타 학문 분야 및 학파	농학, 군사학, 가정학, 건강과학, 박물관학 등
+TR_SCIENCE	TR	TR_SCIENCE		과학 관련 이론/법칙/방식/양식/체계/학설	21세기형수학공식, 이진법, 원심분리법, 기체확산법
+TR_SOCIAL_SCIENCE	TR	TR_SOCIAL_SCIENCE		사회과학 이론/법칙/방법/원리/사상, 정치사상	민주주의, 공산주의, 노동가치설, 대화법, 법치주의, 평등주의
+TR_MEDICINE	TR	TR_MEDICINE		의학 요법/처방, 의학 진단법	인공호흡, 요혈자극법, 바이오피드백
+TR_ART	TR	TR_ART		예술 관련 이론/법칙/방식/양식, 예술 사조	고딕양식, 고전주의, 몽타주, 오마주, 클로즈업 샷, 루즈샷, 다다이즘
+TR_HUMANITIES	TR	TR_HUMANITIES		철학, 언어, 역사 이론/사상	주지주의, 구조주의, 이기론, 관념론, 니힐리즘, 이데아설
+TR_OTHERS	TR	TR_OTHERS		기타 이론/법칙/원리	샤머니즘, 원칙주의
+AF_BUILDING	AF	AF_BUILDING		건축물/토목건설물, 운동장, 아파트, 다리, 등대, 분수 등의 명칭	대한생명 63빌딩, 동대문운동장, 서해대교, 롯데월드타워
+AF_CULTURAL_ASSET	AF	AF_CULTURAL_ASSET		건축물, 고분, 사찰 등의 문화재 명칭	숭례문, 천마총, 불국사, 서울 원각사지 십층석탑, 에펠탑, 미디 운하
+AF_ROAD	AF	AF_ROAD		도로/철로 명칭	세종로, 올림픽대로, 삼성로1길, 충북선, 경부선
+AF_TRANSPORT	AF	AF_TRANSPORT		교통수단/자동차/선박 모델 및 유형, 운송수단, 놀이기구	갈라테아호, 경비정, 벤츠, 자기부상열차
+AF_MUSICAL_INSTRUMENT	AF	AF_MUSICAL_INSTRUMENT		악기 명칭	기타, 캐스터네츠, 편경, 꽹과리, 대금, 해금
+AF_WEAPON	AF	AF_WEAPON		무기 명칭	기관단총, 시한폭탄, 곡사포, 고정포, 탄도미사일, 도끼, 칼
+AFA_DOCUMENT	AF	AF_ART_WORKS	AFA_DOCUMENT	도서/서적 작품명, 지리서, 지도	대동여지도, 동의보감, 한역대장경, 반지의 제왕
+AFA_PERFORMANCE	AF	AF_ART_WORKS	AFA_PERFORMANCE	춤/무용 작품명, 연극/공연/가극/뮤지컬 제목	농악무, 백조의 호수, 명성황후, 캐츠
+AFA_VIDEO	AF	AF_ART_WORKS	AFA_VIDEO	영화 작품명, TV 프로그램 이름, TV/라디오 채널명	기생충, 아빠어디가, CJ홈쇼핑, KBS 2TV
+AFA_ART_CRAFT	AF	AF_ART_WORKS	AFA_ART_CRAFT	미술 작품명, 조각 등의 조형 작품, 불교 그림명/불상명	생각하는 사람, 도산도, 게르니카, 지옥의 문
+AFA_MUSIC	AF	AF_ART_WORKS	AFA_MUSIC	음악 작품명	돈 카를로스, 아이다, 카르멘, 한국환상곡, 보태평
+AFW_SERVICE_PRODUCTS	AF	AF_WARES	AFW_SERVICE_PRODUCTS	서비스업의 상품 명칭	우리희망드림적금, 에어비앤비, 동유럽 발칸 일주 9일
+AFW_OTHER_PRODUCTS	AF	AF_WARES	AFW_OTHER_PRODUCTS	기타 공산품의 상품명	포스트잇, 에어조던 원, 그린터치 물티슈
+OGG_ECONOMY	OG	OGG_ECONOMY		경제 관련 기관/단체	삼성전자, 현대자동차, LG그룹, OECD, 동양증권
+OGG_EDUCATION	OG	OGG_EDUCATION		교육 기관/단체, 교육 관련 기관	밀알유치원, 서울대학교, 청담어학원, 논산훈련소, 국제한국어교육학회
+OGG_MILITARY	OG	OGG_MILITARY		군사 기관/단체 및 유형, 국방 기관	해군, 공군, 육군, 인민군, 해군기지, 국방품질관리소, 한미연합사령부
+OGG_MEDIA	OG	OGG_MEDIA		미디어 기관/단체, 방송 관련 기관/기업	KBS, MBC, TJB, 한국일보, 씨네 21, 공익광고협의회, 월스트리트저널, AP통신
+OGG_SPORTS	OG	OGG_SPORTS		스포츠 기관/단체	국민체육진흥심의위원회, 국기원, 국군체육부대, 맨체스터유나이트
+OGG_ART	OG	OGG_ART		예술 기관/단체	독일디자인협회, 루브르박물관, 예술의 전당, 리움미술관, 대한극장
+OGG_MEDICINE	OG	OGG_MEDICINE		의학/의료 기관/단체	세계보건기구, KMI한국의학연구소, 삼성서울병원, 경희한의원, 새봄약국
+OGG_RELIGION	OG	OGG_RELIGION		종교 기관/단체, 종파	기독교, 불교, 증산도, 대한성공회, 한국기독교장로회, 장로교, 성결교, 화엄종
+OGG_SCIENCE	OG	OGG_SCIENCE		과학 기관/단체	국제전기통신연합, 한국표준과학연구원, 한국에너지기술연구원
+OGG_LIBRARY	OG	OGG_LIBRARY		도서관 및 도서관 관련 기관/단체	국립중앙도서관, 국회도서관, 바티칸도서관, 법학전문도서관, 일송도서관
+OGG_LAW	OG	OGG_LAW		법률 기관/단체	광주지방법원, 대한법무사협회, 저작권심의조정위원회
+OGG_POLITICS	OG	OGG_POLITICS		정부/행정 기관, 공공기관, 정치 기관	청와대, 국회, 대사관, 미래부, 정보통신부, 정부, 우체국, 경찰서, 소방서
+OGG_FOOD	OG	OGG_FOOD		음식 관련 업체/회사	맥도날드, 김밥천국, 롯데리아, 맘스터치, 스타벅스, 파리바게트
+OGG_HOTEL	OG	OGG_HOTEL		숙박 관련 업체	신라호텔, 한화콘도, 대명리조트, 워커힐, 호텔신라, 백담사산장
+OGG_OTHERS	OG	OGG_OTHERS		기타 기관/단체	유색인종향상전국협회, 녹색연합, 참여연대, 블링크, 원잇(ONE IT), 아미
+LCP_COUNTRY	LC	LCP_COUNTRY		국가명	한국, 미국, 독일, 프랑스, 터키, 러시아, 가나
+LCP_PROVINCE	LC	LCP_PROVINCE		도, 주 지역명	경기도, 제주도, 충청도, 강원도, 전라도, 경상도, 텍사스주
+LCP_COUNTY	LC	LCP_COUNTY		군, 면, 읍, 리, 동 등과 같은 세부 행정구역명	영월군, 도암면, 횡계리, 노암동
+LCP_CITY	LC	LCP_CITY		도시명	강릉, 부산, 태백, 뉴욕, 맨체스터, 덴버, 요코하마, 이스탄불
+LCP_CAPITALCITY	LC	LCP_CAPITALCITY		수도명	서울, 베이징, 런던, 파리, 워싱턴 D.C., 오타와, 캔버라
+LCG_RIVER	LC	LCG_RIVER		강, 호수, 연못 명칭	한강, 섬진강, 춘천호, 아산호, 청계천, 중랑천, 관곡지, 예당저수지
+LCG_OCEAN	LC	LCG_OCEAN		해양, 바다 명칭	남극해, 북극해, 동해, 태평양, 산호해
+LCG_BAY	LC	LCG_BAY			반도, 만 명칭
+LCG_MOUNTAIN	LC	LCG_MOUNTAIN		산, 산맥, 능선, 고개/재, 봉 명칭	라우산, 태백산맥, 차령산맥, 계룡산, 공룡능선, 박달재
+LCG_ISLAND	LC	LCG_ISLAND		섬, 제도 명칭	나이팅게일섬, 로스제도, 백령도, 독도
+LCG_CONTINENT	LC	LCG_CONTINENT		대륙명	아시아, 아프리카, 아메리카, 오세아니아, 유라시아, 유럽
+LC_SPACE	LC	LC_SPACE		천체 명칭	태양, 달, 지구, 수성, 모어하우스혜성, 핼리혜성, 전갈자리, 고리성운
+LC_OTHERS	LC	LC_OTHERS		LC 계열의 세부 유형이 아닌 기타 장소	서울역, 신도림역, 인천국제공항, 서울남부터미널, 국립수목원, 금강휴게소
+CV_CULTURE	CV	CV_CULTURE		문명/문화, 혁명/혁신운동 명칭	인더스문명, 황허문명, 거석문화, 도싯문화, 4차산업혁명, 르네상스
+CV_TRIBE	CV	CV_TRIBE		민족/종족 명칭, 국가를 구성하는 국민	이라크족, 유대인, 조선족, 마오리족, 아메리카인디언
+CV_LANGUAGE	CV	CV_LANGUAGE		언어 명칭	한국어, 아랍어, 프랑스어, 산스크리트
+CV_POLICY	CV	CV_POLICY		제도/정책 명칭	카스트, 쓰레기종량제, 직업공무원제도, 연금제도, 고시제도
+CV_LAW	CV	CV_LAW		법/법률 명칭	국제연합헌장, 민법, 형법, 함무라비법전, 관습법, 헌법
+CV_CURRENCY	CV	CV_CURRENCY		통화 명칭	달러, 원, 엔, 유로, 루피, 위안
+CV_TAX	CV	CV_TAX		조세 명칭	법인세, 소득공제, 면허세, 관세, 부가가치세
+CV_FUNDS	CV	CV_FUNDS		연금, 기금, 자금, 펀드 명칭	거치연금, 문예진흥기금, 공적자금, 퇴직연금, 코리아 펀드
+CV_ART	CV	CV_ART		예술의 분류, 종류	소설, 시, 판타지소설, 판소리, 힙합, 케이팝, 공포영화, 미국드라마
+CV_SPORTS	CV	CV_SPORTS		스포츠/레포츠/레저 명칭	축구, 야구, 수상스키, 스키, 스케이팅, 하이킹, 행글라이딩
+CV_SPORTS_POSITION	CV	CV_SPORTS_POSITION		스포츠 포지션	투수, 포수, 스트라이커, 골키퍼, 미드필더
+CV_SPORTS_INST	CV	CV_SPORTS_INST		스포츠 용품/도구	스케이트, 인라인스케이트, 야구공, 배트, 아이젠, 오리발
+CV_PRIZE	CV	CV_PRIZE		상, 훈장 명칭	노벨경제학상, 대통령상, 대종상, 다승왕, 타격왕
+CV_RELATION	CV	CV_RELATION		가족/친족 관계 명칭	엄마, 아버지, 가족, 형제, 제자, 아들, 딸, 자식, 친척
+CV_OCCUPATION	CV	CV_OCCUPATION		직업 명칭	화가, 극작가, 건축가, 가정교사, 언어학자, 공인중개사
+CV_POSITION	CV	CV_POSITION		직위/직책 명칭	부장, 과장, 대리, 대위, 중위, 소위, 대통령, 국무총리, 장관
+CV_FOOD	CV	CV_FOOD		음식 명칭, 음식 재료	소고기, 소금, 명란젓, 국수, 김치, 나물, 된장찌개, 1955버거, 맵슐랭치킨
+CV_DRINK	CV	CV_DRINK		음료, 술 명칭	물, 우유, 주스, 홍차, 레모네이드, 칵테일, 위스키, 레드불
+CV_FOOD_STYLE	CV	CV_FOOD_STYLE		음식 유형	한식, 양식, 중식, 보양식, 패스트푸드
+CV_CLOTHING	CV	CV_CLOTHING		의복/섬유 명칭	모시, 메리야스, 와이셔츠, 레이온, 양모, 점퍼
+CV_BUILDING_TYPE	CV	CV_BUILDING_TYPE		건축 양식 명칭	기능주의건축, 노르만양식, 시토파건축, 도리스양식
+DT_DURATION	DT	DT_DURATION		기간	~부터 ~까지, ~ 간, 전반기/후반기, 성수기/비수기
+DT_DAY	DT	DT_DAY		날짜/절기	입춘, 곡우, 내일, 모레, 금일, 당일, 29일
+DT_WEEK	DT	DT_WEEK		주	지난주, 이번 주, 다음 주, 첫 주, 둘째 주
+DT_MONTH	DT	DT_MONTH		달	이달, 지난달, 4월, 10월
+DT_YEAR	DT	DT_YEAR		년	작년, 내년, 올해, 서기 2910년, 영락1년
+DT_SEASON	DT	DT_SEASON		계절	봄, 여름, 가을, 겨울, 춘계, 하계, 추계, 동계
+DT_GEOAGE	DT	DT_GEOAGE		지질시대	원시시대, 구석기시대, 캄브리아기, 중생대, 원생대, 선사시대
+DT_DYNASTY	DT	DT_DYNASTY		왕조시대	청대, 조선시대, 조선 후기, 명대, 고려시대, 고려 말
+DT_OTHERS	DT	DT_OTHERS		세부분류 이외의 날짜	~년 후/전, ~부터/까지/정도, ~세기, ~때
+TI_DURATION	TI	TI_DURATION		기간	6시~9시, 낮, 밤, 점심, 저녁, 오전, 오후, 밤낮, 전반전
+TI_HOUR	TI	TI_HOUR		시각	12시, 저녁 8시
+TI_MINUTE	TI	TI_MINUTE		분	13분, 30분, 29분
+TI_SECOND	TI	TI_SECOND		초	27초, 15초, 30초
+TI_OTHERS	TI	TI_OTHERS		기타 시간	3시 이전, 8시 20분, 6시까지
+QT_AGE	QT	QT_AGE		나이	만 55세, 50~60대, 생후 10주, 3개월령
+QT_SIZE	QT	QT_SIZE		넓이, 면적	1제곱미터(㎡), 1아르(a), 1헥타르(ha), 9, 606.33㎢
+QT_LENGTH	QT	QT_LENGTH		길이/거리/높이	0.76mm, 900m, 8km, 82피트
+QT_COUNT	QT	QT_COUNT		수량/빈도	6개, 8백 70선, 하나, 둘
+QT_MAN_COUNT	QT	QT_MAN_COUNT		인원수	한 명, 두 사람, 3명, 열댓 명
+QT_WEIGHT	QT	QT_WEIGHT		무게	30kg, 140q, 백 근, 9만 t, 85~100kg, 60q, 5만 톤, 170t
+QT_PERCENTAGE	QT	QT_PERCENTAGE		백분율, 비율, 농도	약 75%, 8~12ppm, 4배, 400~500ppm, 1/3, 절반 이상
+QT_SPEED	QT	QT_SPEED		속도	1km/s, 30km/s
+QT_TEMPERATURE	QT	QT_TEMPERATURE		온도	22~25℃, 41~43.5˚
+QT_VOLUME	QT	QT_VOLUME		부피	두 말, 2홉, 20ℓ, 2되, 2만 2000㎦
+QT_ORDER	QT	QT_ORDER		순서, 순차, 등급	1위, 3수, 100주년, 제10회, 3학년, 제10회, 제2대
+QT_PRICE	QT	QT_PRICE		금액	72만 원, 60억 달러
+QT_PHONE	QT	QT_PHONE		전화번호	042-101-1010, 114, 112, 119, 1588-1588, 031, 02, 001, 00700
+QT_SPORTS	QT	QT_SPORTS		스포츠 관련 수량 표현	1승2패, 5타점, 3:2, 2연승, 6이닝, 1볼넷, 6오버파
+QT_CHANNEL	QT	QT_CHANNEL		TV/라디오 채널 번호	2채널, FM 98.1, 91.9, 95.9 MHz
+QT_ALBUM	QT	QT_ALBUM		앨범 관련 수량 표현	1집, 1.5집, Ⅵ, part 1, vol. 2
+QT_ADDRESS	QT	QT_ADDRESS		주소 관련 숫자 표현	110-704, 200-776, 24457, 32호, 179번지, 668-4
+QT_OTHERS	QT	QT_OTHERS		기타 수량 표현	45점, 100점, 지식머니 20, 북위 38도, 53' 51, 2960X1440
+EV_ACTIVITY	EV	EV_ACTIVITY		사회운동 및 선언 명칭	공민권운동, 브나로드운동, 노예해방선언, 인권선언, 밀라노칙령
+EV_WAR_REVOLUTION	EV	EV_WAR_REVOLUTION		전쟁/혁명, 전투 명칭	러일전쟁, 남북전쟁, 청교도혁명, 4.19혁명, 명량해전, 516 쿠데타
+EV_SPORTS	EV	EV_SPORTS		스포츠/레저 관련 행사 명칭	올림픽경기대회, 서울올림픽, 오버워치리그, 태권도 대회
+EV_FESTIVAL	EV	EV_FESTIVAL		축제, 영화제, 콘서트, 행사 명칭	이천도자기축제, 칸 영화제, 방탄 콘서트, 책 읽는 춘천, 서울 패션 위크
+EV_OTHERS	EV	EV_OTHERS		사건/사고/사태, 회의/학술대회, 전시회, 경진대회 명칭	세월호 참사, 다보스포럼, 키스해링전, 월드바리스타챔피언쉽
+AM_INSECT	AM	AM_INSECT		곤충 명칭	벼메뚜기, 가시거미, 지네, 불나방, 배추흰나비, 참매미
+AM_BIRD	AM	AM_BIRD		조류 명칭	왜가리, 뻐꾸기, 거위, 두루미, 황새
+AM_FISH	AM	AM_FISH		어류 명칭	참가자미, 전기뱀장어, 연어, 갈치, 멸치, 미꾸라지, 숭어, 날치
+AM_MAMMALIA	AM	AM_MAMMALIA		포유류 명칭	해달, 토끼, 오소리, 돌고래, 박쥐, 고슴도치, 두더쥐
+AM_AMPHIBIA	AM	AM_AMPHIBIA		양서류 명칭	개구리, 두꺼비, 산개구리, 산청개구리, 도롱뇽, 맹꽁이
+AM_REPTILIA	AM	AM_REPTILIA		파충류 명칭	도마뱀, 거북, 자라, 구렁이, 백사, 공룡, 악어
+AM_TYPE	AM	AM_TYPE		동물 분류 명칭	강장동물, 구두동물, 극피동물, 내항동물, 모악동물, 선형동물
+AM_PART	AM	AM_PART		동물이나 사람 몸의 한 부분(신체 부위) 명칭	목, 살, 등, 배, 몸통, 손, 입, 갈기
+AM_OTHERS	AM	AM_OTHERS		기타 동물 명칭	가재(절지동물), 문어, 오징어(연체동물)
+PT_FRUIT	PT	PT_FRUIT		과일이나 열매 이름	사과, 배, 자두, 바나나, 복숭아, 오렌지, 포도, 호두, 쌀, 보리
+PT_FLOWER	PT	PT_FLOWER		꽃 이름	저먼아이리스, 백합, 국화, 제비꽃, 히아신스, 초롱꽃, 할미꽃
+PT_TREE	PT	PT_TREE		나무 이름	후박나무, 벚나무, 분비나무, 너도밤나무
+PT_GRASS	PT	PT_GRASS		풀 이름	향부자, 하늘타리뿌리, 인삼, 생강, 감자, 싱아, 갈대
+PT_TYPE	PT	PT_TYPE		식물 분류 명칭	장미목, 이판화군, 외떡잎식물, 붓꽃과, 백합목, 낙엽교목
+PT_PART	PT	PT_PART		식물 각 부분의 명칭	뿌리, 가지, 가시, 꽃, 꽃잎, 꽃봉오리, 꽃수술, 꽃받침, 씨앗
+PT_OTHERS	PT	PT_OTHERS		기타 식물 명칭	우산이끼, 송이버섯, 김, 미역, 매생이, 선인장, 콩나물
+MT_ELEMENT	MT	MT_ELEMENT		원소명	이테르븀, 프로메튬, 디스프로슘, 셀렌, 헬륨
+MT_METAL	MT	MT_METAL		금속 명칭	황산철, 알루미늄, 아연, 구리, 수은, 아말감
+MT_ROCK	MT	MT_ROCK		암석 명칭	화강암, 흑운모화강암, 진사, 역암, 사암, 편암, 편마암
+MT_CHEMICAL	MT	MT_CHEMICAL		화학 물질 명칭	암모니아, 과산화수소, 에탄올, 황화수소, 네온, 일산화탄소, 헤모글로빈, 비타민
+TM_COLOR	TM	TM_COLOR		색깔	흰색, 흰빛, 흑색, 회색, 황, 홍색, 하늘색, 파란빛
+TM_DIRECTION	TM	TM_DIRECTION		방향	최북단, 중앙부, 중앙, 중부, 서쪽, 서부, 상부, 북쪽
+TM_CLIMATE	TM	TM_CLIMATE		기후 지역 명칭	아열대기후, 고산기후, 고지기후, 도시기후, 동안기후
+TM_SHAPE	TM	TM_SHAPE		모양/형태/무늬 명칭	삼각형, 사각형, 팔각형, 일자형, 원통형, 삼각뿔 모양, 가로무늬, 구름무늬
+TM_CELL_TISSUE_ORGAN	TM	TM_CELL_TISSUE_ORGAN		세포/조직/기관 명칭(외부에서 보이지 않는 조직이나 기관)	간상세포, 각막세포, 고막, 뉴런, 늑연골, 식도, 콩팥, 비장
+TMM_DISEASE	TM	TMM_DISEASE		증상/증세/질병 명칭	기침, 폐결핵, 기관지확장증, 레트증후군, 피고름가래
+TMM_DRUG	TM	TMM_DRUG		약/약품명	헤파린, 근이완제, 모기향, 소화제, 아스피린, 구충제
+TMI_HW	TM	TMI_HW		IT 하드웨어 명칭, 장치/부품명	하드디스크드라이브, 마이크로프로세서, 롬, 디스켓, 소자 소켓, 감각 센서
+TMI_SW	TM	TMI_SW		IT 소프트웨어 용어	윈도우10, 리눅스, 반디집, 알송, 한컴오피스 한글, MS워드, 트로이목마, 자바
+TMI_SITE	TM	TMI_SITE		URL 주소	https://opendict.korean.go.kr/, https://www.korean.go.kr/
+TMI_EMAIL	TM	TMI_EMAIL		이메일 주소	esuhyeon@glab.hallym.ac.kr
+TMI_MODEL	TM	TMI_MODEL		각종 제품의 세부 모델명, 모델일련번호	LM1000-2CX
+TMI_SERVICE	TM	TMI_SERVICE		IT 서비스 용어	와이브로서비스, DMB서비스, 카카오톡, 인스타그램, 네이버, 다음, 구글
+TMI_PROJECT	TM	TMI_PROJECT		프로젝트 명칭	BrainKorea21, 4대강사업, 그린 IT 사업, 무료치과진료사업
+TMIG_GENRE	TM	TMIG_GENRE		게임 장르 명칭	RPG, 실시간 전략 게임, 1인칭 슈팅 게임
+TM_SPORTS	TM	TM_SPORTS		스포츠/레저 용어(기술/규칙 명칭)	밀어내기 득점, 솔로 홈런, 바스켓카운트, 리바운드, 발리슛
